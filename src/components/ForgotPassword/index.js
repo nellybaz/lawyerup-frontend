@@ -14,7 +14,6 @@ import {
 
 const ForgotPassword = () => {
   return (
-    <>
       <Container>
         <FormWrap>
           <Icon to="/">Lawyer Up</Icon>
@@ -33,7 +32,6 @@ const ForgotPassword = () => {
           </FormContent>
         </FormWrap>
       </Container>
-    </>
   );
 };
 

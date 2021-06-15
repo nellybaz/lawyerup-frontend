@@ -14,7 +14,6 @@ import {
 
 const Login = () => {
   return (
-    <>
       <Container>
         <FormWrap>
           <Icon to="/">Lawyer Up</Icon>
@@ -46,7 +45,6 @@ const Login = () => {
           </FormContent>
         </FormWrap>
       </Container>
-    </>
   );
 };
 
